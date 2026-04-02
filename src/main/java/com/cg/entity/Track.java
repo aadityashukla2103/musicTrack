@@ -30,7 +30,7 @@ public class Track {
 
 	@Override
 	public String toString() {
-		return "Track [id=" + id + ", title=" + title + ", albumName=" + albumName + ", releaseDt=" + releaseDate + "]";
+		return "Track [id=" + id + ", title= " + title + ", albumName=" + albumName + ", releaseDt=" + releaseDate + "]";
 		
 	}
 
